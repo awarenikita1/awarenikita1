@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awarenikita1
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in software development and learning new technologies
 - 🌱 I’m currently learning software development
 - 📫 How to reach me : awarenikita2001@gmail.com
